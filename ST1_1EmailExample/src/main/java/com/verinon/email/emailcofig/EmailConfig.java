@@ -25,7 +25,7 @@ MimeMessageHelper helper=new MimeMessageHelper(message,false);
 helper.setTo("ramemahe143@gmail.com");
 helper.setSubject("Test Mail");
 helper.setText("Hi i am testing email !!");
-helper.setFrom("ramesh.geeta@verinon.co.in");
+helper.setFrom("rameshgeeta246@gmail.com");
 
 	
 	sender.send(message);
